@@ -1,4 +1,4 @@
-name = "MyTestPackage"
+name = "MyTestPackage.jl"
 uuid = "9cbdf39a-4543-4366-a18c-4117c764f55a"
 authors = ["Giorgi Nikolaishvili <gnikolai@uoregon.edu> and contributors"]
 version = "0.1.0"
