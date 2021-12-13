@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"#MyTestPackage.jl","page":"Home","title":"MyTestPackage.jl","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"The best summation package.","category":"page"},{"location":"#Package-Features","page":"Home","title":"Package Features","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Says hi.","category":"page"},{"location":"#Function-Documentation","page":"Home","title":"Function Documentation","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"sayhi","category":"page"},{"location":"#MyTestPackage.sayhi","page":"Home","title":"MyTestPackage.sayhi","text":"Dummy documentation.\n\n\n\n\n\n","category":"function"}]
+}
